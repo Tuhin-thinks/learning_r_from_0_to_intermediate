@@ -20,4 +20,5 @@ svn rev        77560
 language       R                           
 version.string R version 3.6.2 (2019-12-12)
 nickname       Dark and Stormy Night```
-![Readmeimage](..master/images/learning_r_image(edited).PNG?raw=True)
+
+![](images/learning_r_image(edited).PNG)
